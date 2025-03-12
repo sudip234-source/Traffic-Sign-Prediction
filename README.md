@@ -1,4 +1,4 @@
-# Traffic-Sign-Prediction
+# Traffic-Sign-Prediction (CNN)
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 you can download data from here .
